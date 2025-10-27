@@ -31,7 +31,7 @@ The system allows users to sign in, submit wildlife reports with details (specie
 |--------------------|-------------------------------|
 | Frontend           | React Native (Expo)          |
 | Backend            | Node.js / Express.js         |
-| Database           | Firebase  |
+| Database           | MongoDb Atlas  |
 | Version Control    | Git & GitHub                 |
 
 ---
